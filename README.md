@@ -53,4 +53,6 @@ If the command ran successfully, you should receive the following output:
      [nltk_data]     /Users/sammy/nltk_data...
      [nltk_data]   Unzipping taggers/averaged_perceptron_tagger.zip.
      
+References
 
+    https://www.digitalocean.com/community/tutorials/how-to-work-with-language-data-in-python-3-using-the-natural-language-toolkit-nltk
