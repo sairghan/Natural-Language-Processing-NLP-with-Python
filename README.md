@@ -6,7 +6,7 @@ Prerequisites
 
     For this tutorial, you should have Python installed, as well as a local programming environment set up on your computer. 
     
-Step 1 — Importing NLTK
+**Step 1 — Importing NLTK**
 
 Before we begin working, you should make sure that the NLTK module is installed. On the command line, you can check for NLTK by running the following command:
 
@@ -29,7 +29,7 @@ The error message indicates that NLTK is not installed. You should download the 
      
 Next, you will download the data and NLTK tools we will be working with in this tutorial.
 
-Step 2 — Downloading NLTK's Data and Tagger
+**Step 2 — Downloading NLTK's Data and Tagger**
 
 In this tutorial, we will use a Twitter corpus that we can download through NLTK. Specifically, we will work with NLTK's twitter_samples corpus. Let's download the corpus through the command line, like so:
 
